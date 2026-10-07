@@ -1,4 +1,4 @@
-# AI-agent-for-quant-team
+# AI-agent-for-price-update
 # Luxury Price Reconciliation Agent
 
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
